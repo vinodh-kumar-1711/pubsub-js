@@ -1,0 +1,11 @@
+{
+  "name": "@freshworks/pubsub-js",
+  "version": "1.0.0",
+  "description": "Light weight Javascript pub sub library",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pubsub-js": "^1.9.2"
+  }
+}
